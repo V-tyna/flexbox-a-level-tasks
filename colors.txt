@@ -1,0 +1,4 @@
+Header #d3b714
+Aside 1 #c798b9
+Aside 2 #9cb1c7
+Footer #86ec86
